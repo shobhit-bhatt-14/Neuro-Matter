@@ -1,3 +1,4 @@
+import React from "react";
 import "../styles/Home.css";
 
 const Home = () => {
@@ -103,6 +104,7 @@ const Home = () => {
                 <div className="blogpost">
                   <div className="imgbx">
                     <img
+                      alt="neuro"
                       src="./images/eq.jpg"
                       width={540}
                       height={100}
@@ -124,6 +126,7 @@ const Home = () => {
                 <div className="blogpost">
                   <div className="imgbx">
                     <img
+                      alt="neuro"
                       src="./images/mental.jpg"
                       width={540}
                       height={550}
@@ -147,6 +150,7 @@ const Home = () => {
                 <div className="blogpost">
                   <div className="imgbx">
                     <img
+                      alt="neuro"
                       src="./images/brain-diagram.jpg"
                       width={540}
                       height={550}
@@ -170,6 +174,7 @@ const Home = () => {
                 <div className="blogpost">
                   <div className="imgbx">
                     <img
+                      alt="neuro"
                       src="./images/news.jpg"
                       width={540}
                       height={1000}
@@ -222,6 +227,7 @@ const Home = () => {
                 <div className="blogpost">
                   <div className="imgbx">
                     <img
+                      alt="neuro"
                       src="./images/PMyd.gif"
                       width={540}
                       height={100}
@@ -244,6 +250,7 @@ const Home = () => {
                 <div className="blogpost">
                   <div className="imgbx">
                     <img
+                      alt="neuro"
                       src="./images/QHTn.gif"
                       width={540}
                       height={100}
@@ -267,6 +274,7 @@ const Home = () => {
                 <div className="blogpost">
                   <div className="imgbx">
                     <img
+                      alt="neuro"
                       src="./images/ZAbi.gif"
                       width={540}
                       height={550}
@@ -289,6 +297,7 @@ const Home = () => {
                 <div className="blogpost">
                   <div className="imgbx">
                     <img
+                      alt="neuro"
                       src="./images/R8BQ.gif"
                       width={540}
                       height={100}
@@ -322,7 +331,11 @@ const Home = () => {
               <div className="col-sm-4">
                 <div className="placeBox">
                   <div className="imgBx">
-                    <img src="./images/vinamra.jpg" className="img-fluid" />
+                    <img
+                      alt="neuro"
+                      src="./images/vinamra.jpg"
+                      className="img-fluid"
+                    />
                   </div>
                   <div className="content">
                     <h3>
@@ -337,6 +350,7 @@ const Home = () => {
                 <div className="placeBox">
                   <div className="imgBx">
                     <img
+                      alt="neuro"
                       src="./images/aab8b4f0-b672-4f99-8f2d-30c0c5a2c293.JPG"
                       className="img-fluid"
                     />
@@ -354,6 +368,7 @@ const Home = () => {
                 <div className="placeBox">
                   <div className="imgBx">
                     <img
+                      alt="neuro"
                       src="./images/4054882d-d0e0-412d-94fe-0a1b882de2e3.JPG"
                       className="img-fluid"
                     />

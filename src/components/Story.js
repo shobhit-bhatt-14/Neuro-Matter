@@ -1,3 +1,5 @@
+import React from "react";
+
 import "../styles/Story.css";
 
 import story from "../images/story.jpg";

@@ -1,4 +1,5 @@
 import { useHistory } from "react-router-dom";
+import React from "react";
 
 import "../styles/SignUp.css";
 import pic from "../images/login.jpg";
