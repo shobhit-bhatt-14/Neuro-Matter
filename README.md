@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+## Inspiration
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Neuro-Matter is an integrated social platform designed to combat not one, but 3 major issues facing our world today: Inequality, Neurological Disorders, and lack of information/news. 
 
-## Available Scripts
+We started Neuro-Matter with the aim of helping people facing the issue of Inequality at different levels of society. Though it was assumed that inequality only leads to physical violence, its impacts on neurological/mental levels are left neglected. 
 
-In the project directory, you can run:
+Upon seeing the disastrous effects, we have realized the need of this hour and have come up with Neuro-Matter to effectively combat these issues in addition to the most pressing issue our world faces today: mental health!
 
-### `npm start`
+## What it does
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. "Promotes Equality" and provides people the opportunity to get out of mental trauma.  
+2. Provides a hate-free social environment. 
+3. Helps People cure the neurological disorder 
+4. Provide individual guidance to support people with the help of our volunteers.
+5. Provides reliable news/information.
+6. Have an AI smart chatbot to assist you 24*7.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## How we built it
 
-### `npm test`
+Overall, we used HTML, CSS, React.js, google cloud, dialogue flow, google maps Twilio's APIs. We used Google Firebase's Realtime Database to store, organize, and secure our user data. This data is used to login and sign up for the service. The service's backend is made with node.js, which is used to serve the webpages and enable many useful functions. We have multiple different pages as well like the home page, profile page, signup/login pages, and news/information/thought sharing page. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Challenges we ran into
 
-### `npm run build`
+We had a couple of issues with databasing as the password authentication would work sometimes. Moreover, since we used Visual Studio multiplayer for the first time it was difficult as we faced many VSCode issues (not code related). Since we were working in the same time zones, it was not so difficult for all of us to work together, but It was hard to get everything done on time and have a rigid working module.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Accomplishments that we're proud of
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Overall, we are proud to create a working social platform like this and are hopeful to take it to the next steps in the future as well. Specifically, each of our members is proud of their amazing contributions. 
+We believe in the module we have developed and are determined to take this forward even beyond the hackathon to help people in real life.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What we learned
 
-### `npm run eject`
+We learned a lot, to say the least!! Overall, we learned a lot about databasing and were able to strengthen our React.js, Machine Learning, HTML, and CSS skills as well. We successfully incorporated Twilio's APIs and were able to pivot and send messages. We have developed a smart bot that is capable of both text and voice-based interaction. Overall, this was an extremely new experience for all of us and we greatly enjoyed learning new things. This was a great project to learn more about platform development.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## What's next for Neuro-Matter
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This was an exciting new experience for all of us and we're all super passionate about this platform and can't wait to hopefully unveil it to the general public to help people everywhere by solving the issue of Inequality. 
