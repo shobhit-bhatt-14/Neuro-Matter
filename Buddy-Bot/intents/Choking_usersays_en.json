@@ -1,0 +1,28 @@
+[
+  {
+    "id": "543a8ad0-9f80-49f6-97a7-e54630f3840d",
+    "data": [
+      {
+        "text": "someone chokes and seems to have difficulty breathing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12a4da69-7455-441b-96ac-ef22a9df183a",
+    "data": [
+      {
+        "text": "choking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

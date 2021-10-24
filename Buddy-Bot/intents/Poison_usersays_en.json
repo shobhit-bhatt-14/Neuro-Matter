@@ -1,0 +1,41 @@
+[
+  {
+    "id": "070b4896-cbe4-412e-a1e6-e4db63c0f84a",
+    "data": [
+      {
+        "text": "food poisoning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84b3793f-e858-4e0f-899b-781e564b2a2d",
+    "data": [
+      {
+        "text": "posioning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "253c11e0-780d-49b1-a06f-e345020d7934",
+    "data": [
+      {
+        "text": "poison",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "7a71760e-aab9-42a7-b636-ea7927549e5d",
+  "name": "Chemical",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If chemical is in only one eye, flush by positioning the victim\u0027s head with the contaminated eye down to prevent flushing the chemical from one eye to another. Flush with cool or room temperature water for 15 minutes or more. Remove contact lenses after flushing."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

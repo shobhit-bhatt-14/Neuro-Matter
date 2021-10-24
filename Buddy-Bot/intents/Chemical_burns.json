@@ -1,0 +1,35 @@
+{
+  "id": "71a68fb4-8206-438d-9bf9-7c4eabc82463",
+  "name": "Chemical_burns",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Flush the affected area with cool running water for at least 15 minutes. Remove all clothing and jewellery that has been contaminated.\nMonitor victim for shock and seek medical assistance. If chemical burn is in the eyes, flush continuously with water and seek medical attention immediately."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

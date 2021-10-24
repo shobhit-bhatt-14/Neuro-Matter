@@ -1,0 +1,35 @@
+{
+  "id": "49345485-d220-4d05-92d0-6e6bfe116bd4",
+  "name": "Sunburn",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Avoid any further exposure to direct sunlight, and drink plenty of water to prevent dehydration. Do not apply cold water or ice to a severe burn. If burn is severe and blisters develop, seek medical attention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

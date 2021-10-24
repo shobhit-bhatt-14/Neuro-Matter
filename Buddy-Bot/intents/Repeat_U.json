@@ -1,0 +1,39 @@
+{
+  "id": "a166a1aa-59a9-40d3-9685-69226510170a",
+  "parentId": "a3a2e193-cde6-4fc5-908b-50f3dea3833e",
+  "rootParentId": "a3a2e193-cde6-4fc5-908b-50f3dea3833e",
+  "name": "Repeat_U",
+  "auto": true,
+  "contexts": [
+    "Unconscious-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Unconscious.Unconscious-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Call the ambulance and do not leave them alone. Assess victim’s state of awareness by asking if they are OK.\nCheck the victim’s Airway, Breathing, and Circulation (ABC\u0027s).\nIf the victim’s ABC’s are not present, perform CPR. IMPORTANT: only a trained \u0026 qualified person should administer CPR.\nIf ABC’s are present and spinal injury is not suspected, place victim on their side with their chin toward the ground to allow for secretion drainage.\nCover the victim with blanket to keep warm and prevent shock. If victim communicates feeling warm, remove blanket."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

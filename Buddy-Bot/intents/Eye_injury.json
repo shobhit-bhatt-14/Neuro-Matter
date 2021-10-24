@@ -1,0 +1,40 @@
+{
+  "id": "233c89b4-f58e-4523-ae39-c914f0d3b52b",
+  "name": "Eye_injury",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Eye_injury-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If an object is impaled in the eye, call the ambulance and DO NOT remove the object and DO NOT rub or apply pressure. Cover both eyes with sterile dressings or eye cups to immobilize. If the injury is a black eye, you may apply ice to cheek and area around eye, but not directly on the eyeball itself."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

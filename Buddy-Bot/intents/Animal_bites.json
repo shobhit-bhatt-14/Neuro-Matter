@@ -1,0 +1,35 @@
+{
+  "id": "8da97a3b-e088-4ba2-9fdf-70c8a294e0c5",
+  "name": "Animal_bites",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Control any bleeding by applying direct pressure or with elevation. To avoid risk of infection, do not close wound.\nRinse the bite thoroughly, holding it under running water. Cleanse with soap and water and hold under water again for five minutes.\nDO NOT put ointments or medicines on wound. Cover with dry sterile bandage or gauze.\nSeek medical assistance immediately."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6f57ab63-5b2f-4048-8313-cfd15120a61e",
+  "name": "Bee_sting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If possible, remove stinger by scraping it off with a blunt edge (e.g. credit card).\nClean wound and apply cold compress to reduce swelling.\nRemove tight clothing and jewellery from areas near the bite in case swelling occurs.\nWatch for signs of shock or allergic reaction. Signs include swelling or itching at the wound site, dizziness, nausea or difficulty breathing. Seek medical attention immediately if any of these signs occur.\nContinue monitoring victim for shock until medical help arrives.\nCheck victim’s Airway, Breathing, and Circulation (ABC’s). If ABC’s are impaired then call 911 and begin CPR. IMPORTANT: only a trained \u0026 qualified person should administer CPR"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

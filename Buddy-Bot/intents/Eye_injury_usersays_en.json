@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0b0e9b27-c6df-47f9-9eb3-2a638d5d9121",
+    "data": [
+      {
+        "text": "eye ball burst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27128645-9607-40e6-be8b-3d1c56b6e189",
+    "data": [
+      {
+        "text": "the ball injured her eye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55c6ebb4-a766-4c25-ada5-58ab7042155f",
+    "data": [
+      {
+        "text": "eye bleeding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f872307-998c-43da-bde2-831a96e52a7a",
+    "data": [
+      {
+        "text": "there is a needle in her eye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f615a48c-d7c7-44c2-aa53-6a2c2041adce",
+    "data": [
+      {
+        "text": "eye injury",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "9c13f960-fb3d-4948-aca5-b3b791de78fb",
+  "name": "Poison",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Call your local Poison Control Center or ambulance for immediate medical attention.\nDO NOT give anything by mouth (milk, water, Ipecac, etc.) until you have consulted with a medical professional.\nKeep a one ounce bottle of Ipecac on hand at all times in case of an emergency, and give only when instructed by a physician.\nIf the poison is on the skin, flush skin with water for 15 minutes, then wash and rinse with soap and water.\nIf poison is in the eye, flush with lukewarm water for 15 minutes. Adults can stand under the shower with eyes open. always consult medical professionals after any eye injury has occurred."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

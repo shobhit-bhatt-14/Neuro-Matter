@@ -1,0 +1,35 @@
+{
+  "id": "f9202e47-347e-43e4-8442-d917182c7c10",
+  "name": "Wound",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For small wounds, wash your hands and cleanse the injured area with clean soap and water, then blot dry.\nApply antibiotic ointment to minor wound and cover with a sterile gauze dressing or bandage that is slightly larger than the actual wound."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

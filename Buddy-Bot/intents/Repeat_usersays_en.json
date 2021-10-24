@@ -1,0 +1,80 @@
+[
+  {
+    "id": "46c30516-9377-4db7-8814-47d16bc205de",
+    "data": [
+      {
+        "text": "repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d67aaf1-5d5f-4425-9850-658cfdb44e93",
+    "data": [
+      {
+        "text": "say it again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0197e547-fa08-4015-88ba-a525f376afb2",
+    "data": [
+      {
+        "text": "one more time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da5a8dab-63f2-4cae-8e50-5169ff3a5864",
+    "data": [
+      {
+        "text": "what? say that again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "769d7d3b-ede7-405b-bbdf-e9b595fd5f69",
+    "data": [
+      {
+        "text": "you\u0027re too fast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11d1526f-fc72-4f65-8d44-bc4efa51fe05",
+    "data": [
+      {
+        "text": "please repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
