@@ -1,0 +1,10 @@
+.Main {
+  width: 80%;
+  height: 100%;
+  scroll-behavior: smooth;
+  overflow: auto;
+}
+
+.Main::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,41 @@
+.SignUp {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10em;
+}
+
+.SignUp > form {
+  background: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 2%;
+  gap: 1.5em;
+  border-radius: 20px;
+}
+
+.SignUp form textarea {
+  resize: none;
+  height: 3em;
+  width: 25em;
+  line-height: 3em;
+  vertical-align: middle;
+  font-size: 1.5em;
+  border-radius: 10px;
+}
+
+.SignUp form > button {
+  font-size: 2em;
+  border-radius: 10px;
+  background: linear-gradient(to bottom left, #355c7d, #c06c84);
+  color: #ff0;
+}
+
+.SignUp > img {
+  height: 500px;
+  width: 500px;
+}

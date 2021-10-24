@@ -1,0 +1,51 @@
+.Story {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  gap: 10em;
+}
+
+.Story .content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-flow: row wrap;
+  width: 80%;
+  background: #eee;
+  padding: 4% 8%;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+
+.content > p {
+  flex-basis: 100%;
+  height: auto;
+}
+
+.content > h3 {
+  flex-basis: 50%;
+  font-size: 1.5em;
+  color: #483d8b;
+}
+.content > button {
+  width: auto;
+  height: 2.5em;
+  font-size: 1.5em;
+  background: #9932cc;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.content > button:hover {
+  transform: rotate(360deg);
+  transition: 2s ease;
+  color: #0ff;
+}
+
+.Story img {
+  width: 20%;
+  border-radius: 50%;
+}
