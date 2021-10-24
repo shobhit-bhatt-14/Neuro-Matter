@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c925a665-4623-4249-ae72-e044de14eeeb",
+    "data": [
+      {
+        "text": "bee sting in my skin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47c0fbfe-dd23-40c4-9159-59319217751c",
+    "data": [
+      {
+        "text": "got bee sting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

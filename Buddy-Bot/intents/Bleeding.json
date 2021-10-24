@@ -1,0 +1,40 @@
+{
+  "id": "8dfb851e-f187-4d88-abdd-e4e0aa7cf6c5",
+  "name": "Bleeding",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Bleeding-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please call the ambulance. If the victim is bleeding heavily, let him or she lye down and apply direct pressure using a clean cloth or sterile dressing directly on the wound. DO NOT remove any objects in a wound. Carefully elevate the wound above the victim\u0027s heart if there are no signs of a fracture in the injured area."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

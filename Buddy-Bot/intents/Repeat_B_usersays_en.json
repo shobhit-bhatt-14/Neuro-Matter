@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ee2f8301-8784-4985-8f53-fc62a3dcc890",
+    "data": [
+      {
+        "text": "say again slowly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01d62cfe-a1ba-4c23-89f2-e0320ae9fa49",
+    "data": [
+      {
+        "text": "repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f2d62b4-5002-4d18-ab29-f98ec45f94e0",
+    "data": [
+      {
+        "text": "say that again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1770c09-6929-4b07-adc4-bce797659784",
+    "data": [
+      {
+        "text": "please repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

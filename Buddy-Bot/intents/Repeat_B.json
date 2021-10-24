@@ -1,0 +1,39 @@
+{
+  "id": "1d05a0de-a01a-4e04-93fd-97813f5d80fa",
+  "parentId": "8dfb851e-f187-4d88-abdd-e4e0aa7cf6c5",
+  "rootParentId": "8dfb851e-f187-4d88-abdd-e4e0aa7cf6c5",
+  "name": "Repeat_B",
+  "auto": true,
+  "contexts": [
+    "Bleeding-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Bleeding.Bleeding-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please call the ambulance. If the victim is bleeding heavily, let him or she lye down and apply direct pressure using a clean cloth or sterile dressing directly on the wound. DO NOT remove any objects in a wound. Carefully elevate the wound above the victim\u0027s heart if there are no signs of a fracture in the injured area."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

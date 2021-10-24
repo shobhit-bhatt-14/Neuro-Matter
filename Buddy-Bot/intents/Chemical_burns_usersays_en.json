@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a23b9b87-7bac-4e3e-8618-9119209ec688",
+    "data": [
+      {
+        "text": "got chemical over skin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1c84f3f-e832-432c-b930-56fde45f7572",
+    "data": [
+      {
+        "text": "my skin got into contact with bleach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

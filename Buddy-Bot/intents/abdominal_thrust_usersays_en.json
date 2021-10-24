@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1fbb73f6-ae6f-4c8e-87d4-d8f48a8969f5",
+    "data": [
+      {
+        "text": "any guidance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "296946b9-bc10-46a4-8052-370ee8a15d0a",
+    "data": [
+      {
+        "text": "how to perform",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9c972c3-5acd-4fe5-bf70-df5fddc7671c",
+    "data": [
+      {
+        "text": "please tell me what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e7f5bac-61dd-4ad4-8d72-d793212e8dda",
+    "data": [
+      {
+        "text": "what is that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "449d1e86-33ae-4aa5-9faa-c495b8683c64",
+    "data": [
+      {
+        "text": "Heimlich maneuver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "8eb12907-4d61-49f9-8654-b27c8ceecd2b",
+  "parentId": "a55e63a5-5778-467c-a4bf-f2d9942dac68",
+  "rootParentId": "a55e63a5-5778-467c-a4bf-f2d9942dac68",
+  "name": "abdominal_thrust",
+  "auto": true,
+  "contexts": [
+    "Choking-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Choking.Choking-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Position yourself behind the victim with your arms around victim’s stomach. Place the thumb-side of your fist above the victim’s navel and below the lower end of the breastbone. Take hold of your fist with your free hand and pull fist upward and in, quickly and firmly. Continue with thrusts until the object is dislodged or airway is clear."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

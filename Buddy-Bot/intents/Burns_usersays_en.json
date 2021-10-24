@@ -1,0 +1,79 @@
+[
+  {
+    "id": "25774ce8-340a-440c-9cc1-1dc1b09e45f5",
+    "data": [
+      {
+        "text": "burns",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " skin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c70cfa94-42ab-4b8c-b13b-f65fc2d16a97",
+    "data": [
+      {
+        "text": "burn area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fa5c4e7-0d8d-4f30-ab88-268432b10f90",
+    "data": [
+      {
+        "text": "Skin will be visibly charred and may be ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48ddadd4-ca33-4e4f-b542-e5a3c10cb745",
+    "data": [
+      {
+        "text": "Skin appear red, blistered and swollen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e83d93b-1c2f-4fc3-afc0-9985ee13fc1d",
+    "data": [
+      {
+        "text": "my skin burnt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

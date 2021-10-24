@@ -1,0 +1,28 @@
+[
+  {
+    "id": "0d4d0b6d-6441-483d-8969-9559f71e2106",
+    "data": [
+      {
+        "text": "sunburn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b33f06ed-bf95-4fd2-b25d-bafe8adce23f",
+    "data": [
+      {
+        "text": "she got sunburn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

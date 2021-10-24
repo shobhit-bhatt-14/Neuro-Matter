@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d8b55674-24b6-4766-b453-93e84fba9db3",
+    "data": [
+      {
+        "text": "human bite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08de5b87-a83b-4cde-be35-5c2807f48d87",
+    "data": [
+      {
+        "text": "bitten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a86a037e-d712-410f-8c83-f0c6bb1abf8f",
+    "data": [
+      {
+        "text": "animal bite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44bf4d1c-c98b-44f0-9b0a-c265a47ec02d",
+    "data": [
+      {
+        "text": "got bitten by a dog",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

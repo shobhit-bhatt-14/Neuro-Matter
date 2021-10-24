@@ -1,0 +1,28 @@
+[
+  {
+    "id": "024f789a-51ea-4b6e-8688-18c0c4636eea",
+    "data": [
+      {
+        "text": "repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f57a9f01-c3b3-4eaf-be1c-177f1b8f9d00",
+    "data": [
+      {
+        "text": "say that again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

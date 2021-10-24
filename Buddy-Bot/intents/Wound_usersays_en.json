@@ -1,0 +1,41 @@
+[
+  {
+    "id": "018d2e95-3282-4cbe-811e-97f322518bdb",
+    "data": [
+      {
+        "text": "small cut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b5bef00-0d6d-4821-8377-c58d28a4dfb3",
+    "data": [
+      {
+        "text": "minor injuries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a6a93e1-7083-40c5-9076-9b3e38deb20a",
+    "data": [
+      {
+        "text": "there is a small wound",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

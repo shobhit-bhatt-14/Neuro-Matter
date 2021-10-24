@@ -1,0 +1,39 @@
+{
+  "id": "290f5d39-3761-42f7-92f0-3b1bc6a42959",
+  "parentId": "a55e63a5-5778-467c-a4bf-f2d9942dac68",
+  "rootParentId": "a55e63a5-5778-467c-a4bf-f2d9942dac68",
+  "name": "Infants",
+  "auto": true,
+  "contexts": [
+    "Choking-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Choking.Choking-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Place infant face down on your forearm supporting the head and neck with your hand. Rest your hand on your knee with the infant’s head lower than it’s body.\nWith the heel of your hand give four blows between the infant’s shoulder blades. Turn infant over, place two fingers on the center of the infant’s chest (just below the nipples) and perform up to five chest thrusts. Repeat until obstruction is clear. Please seek medical attention after any choking incident, since complications may arise."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

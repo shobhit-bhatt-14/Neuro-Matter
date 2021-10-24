@@ -1,0 +1,64 @@
+{
+  "id": "9da3140a-5d9a-4672-94e7-24bc7a502323",
+  "name": "Burns",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ec1a19c3-91f1-44a7-bb07-09705fef6943",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e5ecc5a4-296e-444c-933c-33cae7d1c04f",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Submerge burn area immediately in cool water until pain stops. If affected area is large, cover with cool wet cloths. Do not break blisters if they are present. If pain persists but no medical assistance is needed, apply medicated first aid cream or gel and cover with sterile dressing. If medical attention is needed, call the ambulance. DO NOT try to remove any clothing stuck to the burned area or apply any cream. Cover with dry, sterile dressing or clean sheet."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
