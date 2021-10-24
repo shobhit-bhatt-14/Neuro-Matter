@@ -15,7 +15,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #483d8b;
+  background: linear-gradient(#0f2027, #203a43, #2c5364);
   border-radius: 40px;
   padding: 2em 5em;
   gap: 5em;

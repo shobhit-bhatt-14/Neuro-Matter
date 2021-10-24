@@ -8,12 +8,36 @@
   position: static;
 }
 
+.NavBar > h1 {
+  font-size: 2.9em;
+  font-weight: bold;
+  color: #fff;
+  animation: glow 4s ease-in-out alternate infinite;
+}
+@keyframes glow {
+  0% {
+    color: #fff;
+  }
+  25% {
+    color: #f00;
+  }
+  50% {
+    color: #0f0;
+  }
+  75% {
+    color: #00f;
+  }
+  100% {
+    color: #000;
+  }
+}
+
 .NavBar > a {
   color: #fff;
   font-size: 2em;
   text-align: center;
   text-decoration: none;
-  background: maroon;
+  background: linear-gradient(to bottom right, #00f260, #0575e6);
   border-radius: 20px;
   padding: 20px;
 }

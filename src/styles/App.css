@@ -12,5 +12,5 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #6495ed;
+  background: linear-gradient(to bottom left, #c31432, #240b36);
 }

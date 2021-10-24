@@ -14,7 +14,7 @@
   flex-direction: column;
   flex-flow: row wrap;
   width: 80%;
-  background: #eee;
+  background: linear-gradient(to bottom left, #a8e063, #56ab2f);
   padding: 4% 8%;
   box-sizing: border-box;
   border-radius: 100px;
